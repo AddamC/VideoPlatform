@@ -1,0 +1,3 @@
+[run]
+source = VideoPlatform
+omit = VideoPlatform/test*
